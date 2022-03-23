@@ -2,9 +2,7 @@
 
 This repository contains the code and data to produce the results in the article ["Optimal Public Expenditure with Inefficient Unemployment"](https://www.pascalmichaillat.org/6.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economic Studies](https://doi.org/10.1093/restud/rdy030) in May 2019. 
 
-## Description of code
-
-### Figure 3
+## Figure 3
 
 The Matlab script `figure3.m` produces figure 3.
 
@@ -13,7 +11,7 @@ the onset of the Great Recession in the United States. The calibration of the tw
 * The script then uses formula (23) to compute optimal stimulus spending and formula (24) to compute the unemployment rate reached under optimal stimulus. The formulas are used under a range of unemployment multipliers and a range of elasticities of substitution between public and private consumption.
 * The script then produces the two panels of figure 3: `figure3A.pdf`, `figure3B.pdf`.
 
-### Figure 4
+## Figure 4
 
 The Matlab script `figure4.m` produces figure 4.
 
