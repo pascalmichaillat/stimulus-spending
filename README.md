@@ -1,6 +1,6 @@
 # Code & Data for "Optimal Public Expenditure with Inefficient Unemployment"
 
-This repository contains the code and data to produce the results in the article ["Optimal Public Expenditure with Inefficient Unemployment"](https://www.pascalmichaillat.org/6.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economic Studies](https://doi.org/10.1093/restud/rdy030) in May 2019. 
+This repository contains the code and data used to produce the results in the article ["Optimal Public Expenditure with Inefficient Unemployment"](https://www.pascalmichaillat.org/6.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economic Studies](https://doi.org/10.1093/restud/rdy030) in May 2019. 
 
 ## Figure 3
 
